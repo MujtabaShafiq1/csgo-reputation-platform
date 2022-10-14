@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+
+body {
+    background: url("./assests/background.jpg");
+    background-color: linear-gradient(120deg, rgb(25, 28, 32), rgb(31, 31, 39));
+}
