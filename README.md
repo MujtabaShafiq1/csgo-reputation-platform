@@ -1,10 +1,9 @@
 # csgo-rep-clone
 
 Original : https://csgo-rep.com/ <br />
-Their website got updated recently this is the old version clone
-
-Hosted Frontend : https://repclone.netlify.app/
-Hosted Backend : https://repclone.herokuapp.com/  (will expire on 28th Nov)
+Their website got updated recently this is the old version clone <br />
+Hosted Frontend : https://repclone.netlify.app/  <br />
+Hosted Backend : https://repclone.herokuapp.com/  (will expire on 28th Nov)  <br />
 
 # Technologies 
 
@@ -24,7 +23,8 @@ Hosted Backend : https://repclone.herokuapp.com/  (will expire on 28th Nov)
 
 ## Home
 
-![home(2)](https://user-images.githubusercontent.com/96123241/196004409-9cf9148a-de43-4a45-9d79-e6250831e093.png) ![home](https://user-images.githubusercontent.com/96123241/196004412-dd76e0bf-9f40-4d22-a36a-5bc0d5b482b0.png)
+![home](https://user-images.githubusercontent.com/96123241/196029976-dd494ee8-9d75-401b-8a05-ad21f914f3a7.png)
+
 
 ## New Feedback
 
@@ -47,6 +47,10 @@ Hosted Backend : https://repclone.herokuapp.com/  (will expire on 28th Nov)
 # Screenshots after Responsiveness
 
 
+## Home
+
+<img src="https://user-images.githubusercontent.com/96123241/196030277-0bde34d2-2ee0-42d9-b0f0-905c4dde6309.jpeg" width="50%"
+![home(2)](https://user-images.githubusercontent.com/96123241/196030280-815a701a-4366-4943-8e2a-3026ce183c13.jpeg)
 
 
 
