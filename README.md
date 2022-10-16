@@ -46,12 +46,31 @@ Hosted Backend : https://repclone.herokuapp.com/  (will expire on 28th Nov)  <br
 
 # Screenshots after Responsiveness
 
+## Navigation
+
+<img src="https://user-images.githubusercontent.com/96123241/196030622-d39fbefe-824a-4fb2-ab66-9a731494be7e.jpeg" width="45%">
 
 ## Home
 
-<img src="https://user-images.githubusercontent.com/96123241/196030277-0bde34d2-2ee0-42d9-b0f0-905c4dde6309.jpeg" width="50%"
-![home(2)](https://user-images.githubusercontent.com/96123241/196030280-815a701a-4366-4943-8e2a-3026ce183c13.jpeg)
+<img src="https://user-images.githubusercontent.com/96123241/196030277-0bde34d2-2ee0-42d9-b0f0-905c4dde6309.jpeg" width="45%"> <img src="https://user-images.githubusercontent.com/96123241/196030280-815a701a-4366-4943-8e2a-3026ce183c13.jpeg" width="45%">
 
+## User
 
+<img src="https://user-images.githubusercontent.com/96123241/196030646-cfb78716-4b90-47c5-a457-b746ff1014e5.jpeg" width="45%">
 
+## New Feedback
+
+<img src="https://user-images.githubusercontent.com/96123241/196030671-f1b7ccc4-6445-4295-940c-df14ab6c5289.jpeg" width="45%"> <img src="https://user-images.githubusercontent.com/96123241/196030676-4dcd917d-c3ce-419a-868f-c076c01884b1.jpeg" width="45%"> 
+
+## Contact 
+
+<img src="https://user-images.githubusercontent.com/96123241/196030745-2acf8bf1-937e-4373-ad25-3fd3ee1c44f2.jpeg" width="45%">
+
+## Report 
+
+<img src="https://user-images.githubusercontent.com/96123241/196030756-63b79b88-5c45-4c1e-b715-79bc948b5da7.jpeg" width="45%">
+
+## Footer
+
+<img src="https://user-images.githubusercontent.com/96123241/196030768-81983bae-b62d-4223-84ba-47f9912bfef0.jpeg" width="45%">
 
