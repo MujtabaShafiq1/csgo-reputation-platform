@@ -1,13 +1,9 @@
-# CSGO REP CLONE
+# CSGO REPUTATION PLATFORM
 
 ## Overview
 
-CSGO-Rep is a platform created for traders and objective is to provide a platform where you can safely choose who you trade with, as well as provide you with a way to start your journey in this community.
+This a platform created for traders and objective is to provide a platform where you can safely choose who you trade with, as well as provide you with a way to start your journey in this community.
 
-Original : https://csgo-rep.com/ <br />
-Their website got updated recently this is the old version clone <br />
-Hosted Frontend : https://repclone.netlify.app/ <br />
-Hosted Backend : https://repclone.herokuapp.com/ (will expire on 28th Nov) <br />
 
 ## Features
 
